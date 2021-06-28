@@ -1,0 +1,17 @@
+/* https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Fclouds-aesthetics&psig=AOvVaw1T_H6XJjM5tTpozKojUMzJ&ust=1620222506584000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjfn6qVsPACFQAAAAAdAAAAABAD */
+
+
+body{
+    background-image: url("https://i.pinimg.com/originals/99/a3/a0/99a3a0cad1e93845a711da30f4ad1a1a.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+div .twocolumn{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 4rem;
+   
+}
+ 
